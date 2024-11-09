@@ -16,21 +16,18 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": [
-    "100053549552408",
-    ""
-  ],
+  "adminBot": ["100090405019929"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Cliff Vincent",
-  "AGE": "18",
+  "OWNER": "ミ★𝐒𝐎𝐍𝐈𝐂✄𝐄𝐗𝐄 3.0★彡",
+  "AGE": "16",
   "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "✓",
+  "nickNameBot": "༺『 𝐇𝐄𝐍𝐓𝐀𝐈ᬊ᭄𝐒𝐀𝐍 』༻",
+  "FACEBOOK": "https://www.facebook.com/sonic.shisui.1492",
+  "prefix": "#",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
